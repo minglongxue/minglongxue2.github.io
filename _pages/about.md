@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am currently a Lecturer at Chongqing University of Technology, working as member of Big Data and Machine Learning Lab. I have been honored as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D degree from Nanjing University in 2021.
+I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology, working as a member of the Big Data and Machine Learning Lab. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021.
 
-I received my B.S. Degree and M.S. Degree from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
+I received my B.S. Degree and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
 
 [[中文版本]](https://minglongxue.github.io/index2.html)
 

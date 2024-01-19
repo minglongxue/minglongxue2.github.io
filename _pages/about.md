@@ -38,7 +38,7 @@ Latest News
 - 2023.06   One paper is accepted by ICIP2023(CCF-C). Congratulations to Zhengyang He.
 
 
-Publication
+Publications
 ======
 2023
 - [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, et al. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf)

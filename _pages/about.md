@@ -14,14 +14,16 @@ I received my B.S. Degree and M.S. Degree from Chongqing Jiaotong University and
 
 [[中文版本]](https://minglongxue.github.io/index2.html)
 
+Research Interests
+======
+- Computer Vision: 
 
 
 Teaching
 ======
 
 
-Research Interests
-======
+
 
 
 Latest News

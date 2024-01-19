@@ -30,7 +30,7 @@ Teaching
 
 Latest News
 ======
-- 2023.11   One paper is accepted by Journal of Cloud Computing (SCI,中科院三区). Congratulations to Yanyi He.
+- 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区). Congratulations to Yanyi He.
 - 2023.09   Warmly welcome three new Master's students to join us.
 ![example](/images/team202309.png)
 - 2023.06   One paper is accepted by ICIP2023(CCF-C). Congratulations to Zhengyang He.

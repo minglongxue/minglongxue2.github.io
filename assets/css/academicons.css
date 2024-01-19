@@ -325,3 +325,12 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.cs{
+    font-weight: 500;
+    color: #24292e;
+}
+#index .head-div{
+    font-size: 24px;
+    color: #FF2600;
+}

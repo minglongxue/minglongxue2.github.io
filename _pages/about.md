@@ -25,6 +25,7 @@ Teaching
 ======
 - Computer Vision
 - Machine Learning
+- Deep Learning
 
 
 Latest News

@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "中文版本"
 author_profile: true
 ---
 

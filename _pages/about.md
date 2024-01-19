@@ -17,21 +17,22 @@ I received my B.S. Degree and M.S. Degree from Chongqing Jiaotong University and
 
 Research Interests
 ======
-- Computer Vision: 
+- Computer Vision:
+- Image/Video Enhancement
 
 
 Teaching
-Research Interests
 ======
-
+- Computer Vision
+- Machine Learning
 
 
 Latest News
 ======
-- 2023.11.22 One paper is accepted by Journal of Cloud Computing(SCI,中科院三区). Congratulations to Yanyi He.
-- 2023.09.01 Warmly welcome three new Master's students to join us.
+- 2023.11   One paper is accepted by Journal of Cloud Computing(SCI,中科院三区). Congratulations to Yanyi He.
+- 2023.09   Warmly welcome three new Master's students to join us.
 ![Editing a markdown file for a talk](/images/team202309.png){width=50% height=auto }
-- 2023.06.22 One paper is accepted by ICIP2023(CCF-C). Congratulations to Zhengyang He.
+- 2023.06   One paper is accepted by ICIP2023(CCF-C). Congratulations to Zhengyang He.
 
 
 Publication

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index.html
 title: "Xue MingLong's Page"
 excerpt: "About me"
 author_profile: true

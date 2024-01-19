@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "薛明龙 / MingLong Xue"
-  avatar           : "profile.png"
+  avatar           : "xml.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  #wikipedia        :
 
 
 # Reading Files

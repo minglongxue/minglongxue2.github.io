@@ -1,11 +1,13 @@
 ---
-permalink:/about/
+permalink: /
+title: "Minglong Xue's page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about
+  - /about/
   - /about.html
 ---
+
 
 I am currently a Lecturer at Chongqing University of Technology, working as member of Big Data and Machine Learning Lab. I have been honored as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D degree from Nanjing University in 2021.
 

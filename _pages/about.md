@@ -18,6 +18,7 @@ Research Interests
 ======
 - Computer Vision
 - Image/Video Enhancement
+- Pattern Recognition
 
 
 Teaching
@@ -35,12 +36,12 @@ Latest News
 - 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
 - 2023.10   Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.
 <p align = "center">    
-<img  src="/images/hezhengyang202310.png" width="60%" />
+<img  src="/images/hezhengyang202310.png" width="50%" />
 </p>
 
 - 2023.09   Warmly welcome three new Master's students to join us.
 <p align = "center">    
-<img  src="/images/team202309.png" width="60%" />
+<img  src="/images/team202309.png" width="50%" />
 </p>
 
 - 2023.06   One paper is accepted by ICIP2023(CCF-C).

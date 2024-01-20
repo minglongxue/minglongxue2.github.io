@@ -16,7 +16,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 Research Interests
 ======
-- Computer Vision:
+- Computer Vision
 - Image/Video Enhancement
 
 
@@ -30,7 +30,7 @@ Teaching
 Latest News
 ======
 - 2024.01   One paper is submitted to Siggraph2024.
-- 2023.10   One paper is submitted to ICME2024.
+- 2023.12  One paper is submitted to ICME2024.
 - 2023 12   We are five students honoured to “华为杯”全国研究生数学建模竞赛全国三等奖.
 - 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
 - 2023.10   Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.

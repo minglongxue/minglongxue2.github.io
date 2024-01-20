@@ -47,6 +47,9 @@ Latest News
 
 Publications
 ======
+2024
+- [arXiv'24] Xue M, He J, He Y, et al. Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion[J]. arXiv preprint arXiv:2401.03788, 2024.[[Paper]](https://arxiv.org/pdf/2401.03788.pdf)[[Code]](https://github.com/He-Jinhong/CFWD)
+  
 2023
 - [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, et al. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf)
 - [ICIP'23] Minglong Xue, Zhengyang He et al. “UT-GAN: A Novel Unpaired Textual-Attention Generative Adversarial Network for Low-Light Text Image Enhancement” in Proc. International Conference on Image Processing (ICIP). 2023: 1980-1984. (EI, CCF-C) [[Paper]](https://ieeexplore.ieee.org/document/10222221)

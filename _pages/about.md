@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology, working as a member of the Big Data and Machine Learning Lab. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. Degree and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
 
-[[中文版本]](https://minglongxue.github.io/index2.html)
+#[[中文版本]](https://minglongxue.github.io/index2.html)
 
 Research Interests
 ======
@@ -28,15 +28,21 @@ Teaching
 
 Latest News
 ======
-- 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区). Congratulations to Yanyi He.
+- 2024.01   One paper is submitted to Siggraph2024.
+- 2023.10   One paper is submitted to ICME2024.
+- 2023 12   We are two teams honoured “华为杯”全国研究生数学建模竞赛全国三等奖.
+- 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
+- 2023.10   Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.
+<p align = "center">    
+<img  src="/images/hezhengyang202310.png" width="60%" />
+</p>
+
 - 2023.09   Warmly welcome three new Master's students to join us.
 <p align = "center">    
 <img  src="/images/team202309.png" width="60%" />
 </p>
 
-
-- 2023.06   One paper is accepted by ICIP2023(CCF-C). Congratulations to Zhengyang He.
-
+- 2023.06   One paper is accepted by ICIP2023(CCF-C).
 
 Publications
 ======
@@ -53,20 +59,21 @@ before 2022
 - [MAT'19] Minglong Xue, Palaiahnakote Shivakumara, Chao Zhang, Yao Xiao, Tong Lu, Umapada Pal, Michael Blumenstein, Daniel Lopresti, “Curved text detection in blurred/non-blurred video/scene images” pp. 25629- 25653, 2019. (CCF-C, SCI,中科院三区 )
 - [ICDAR'19] Yao Xiao, Minglong Xue, Tong Lu, Yirui Wu, Palaiahnakote Shivakumara, “A text-context-aware CNN network for multi-oriented and multi-language scene text detection” in Proc. 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 695-700, 2019. (EI, CCF-C)
 - [PCM'19] Chao Zhang, Palaiahnakote Shivakumara, Minglong Xue, Liping Zhu, Tong Lu, Umapada Pal, “New fusion based enhancement for text detection in night video footage” in Proc. 2018 Pacific Rim Conference on Multimedia (PCM). pp. 46-56, 2018. (EI, CCF-C)
+
 Honors
 ======
-
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Shiji Scholar of Chongqing University of Technology (重庆理工大学士继英才·青年拔尖), 2023
 
 Students
 ======
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Aoxiang Ning
+Jinhong He
+Shuaibin Fan
+Peiqi Xie
+Yanyi He
+Zhengyang He
 
 
-Join Lab
+Join Us?
 ======
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.

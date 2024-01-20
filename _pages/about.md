@@ -66,12 +66,12 @@ Shiji Scholar of Chongqing University of Technology (重庆理工大学士继英
 
 Students
 ======
-Aoxiang Ning
-Jinhong He
-Shuaibin Fan
-Peiqi Xie
-Yanyi He
-Zhengyang He
+- Aoxiang Ning
+- Jinhong He
+- Shuaibin Fan
+- Peiqi Xie
+- Yanyi He
+- Zhengyang He
 
 
 Join Us?

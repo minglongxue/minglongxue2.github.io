@@ -83,35 +83,4 @@ Join Us?
 ======
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.
 
-
-
-
-
-<html>
-<head>
-<meta charset="utf-8">
-<title><script>
-if (localStorage.pagecount) {
-    localStorage.pagecount = Number(localStorage.pagecount) + 1;
-} else {
-    localStorage.pagecount = 1;
-}
-document.write("Visits:  " + localStorage.pagecount + "  time(s).");
-</script>
-html5计数-jq22.com</title>
-<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
-<style>
-</style>
-</head>
-<body>
-
-<script>
-if (localStorage.pagecount) {
-    localStorage.pagecount = Number(localStorage.pagecount) + 1;
-} else {
-    localStorage.pagecount = 1;
-}
-document.write("Total visitors:  " + localStorage.pagecount );
-</script>
-</body>
-</html>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://minglongxue.github.io/&digit=style/plain/1/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://relia" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter.com</a>

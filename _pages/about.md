@@ -82,3 +82,34 @@ Students
 Join Us?
 ======
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title><script>
+if (localStorage.pagecount) {
+    localStorage.pagecount = Number(localStorage.pagecount) + 1;
+} else {
+    localStorage.pagecount = 1;
+}
+document.write("Visits:  " + localStorage.pagecount + "  time(s).");
+</script>
+html5计数-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+</style>
+</head>
+<body>
+<p>刷新页面会看到计数器在增长。</p>  
+  
+<script>
+if (localStorage.pagecount) {
+    localStorage.pagecount = Number(localStorage.pagecount) + 1;
+} else {
+    localStorage.pagecount = 1;
+}
+document.write("Visits:  " + localStorage.pagecount + "  time(s).");
+</script>
+</body>
+</html>

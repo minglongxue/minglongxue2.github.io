@@ -67,7 +67,7 @@ before 2022
 
 Honors
 ======
-Shiji Scholar of Chongqing University of Technology (重庆理工大学士继英才·青年拔尖), 2023
+- Shiji Scholar of Chongqing University of Technology (重庆理工大学士继英才·青年拔尖), 2023
 
 Students
 ======
@@ -82,6 +82,8 @@ Students
 Join Us?
 ======
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.
+
+
 
 
 

@@ -85,7 +85,6 @@ Discussions or cooperations are warmly welcome. If you want to join my group, pl
 
 
 
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">

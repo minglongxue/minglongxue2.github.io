@@ -30,7 +30,8 @@ Teaching
 
 Latest News
 ======
-- 2024.01   One paper is submitted to Siggraph2024.
+<!-- - 2024.01   One paper is submitted to Siggraph2024.
+-->
 - 2023.12  One paper is submitted to ICME2024.
 - 2023 12   We are five students honoured to “华为杯”全国研究生数学建模竞赛全国三等奖.
 - 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
@@ -49,7 +50,8 @@ Latest News
 Publications
 ======
 2024
-- [arXiv'24] Minglong Xue, Jinhong He, Yanyi He, Zhipu Liu, Wenhai Wang and Mingliang Zhou. Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion[J]. arXiv preprint arXiv:2401.03788, 2024.[[Paper]](https://arxiv.org/pdf/2401.03788.pdf)[[Code]](https://github.com/He-Jinhong/CFWD)
+<!-- - [arXiv'24] Minglong Xue, Jinhong He, Yanyi He, Zhipu Liu, Wenhai Wang and Mingliang Zhou. Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion[J]. arXiv preprint arXiv:2401.03788, 2024.[[Paper]](https://arxiv.org/pdf/2401.03788.pdf)[[Code]](https://github.com/He-Jinhong/CFWD)
+-->
   
 2023
 - [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf)

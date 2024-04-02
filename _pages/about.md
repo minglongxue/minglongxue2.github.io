@@ -36,12 +36,11 @@ Latest News
 <p align = "center">    
 <img  src="/images/team_building.jpg" width="50%" />
 </p>
-- 2024.02 Peiqi Xie conducted a visiting scholar program at the Royal Institute of Technology, Thailand.
+- 2024.02 Peiqi Xie conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
 <img  src="/images/Xiepeiqi_visiting.jpg" width="50%" />
 </p>
   
-- 2023.12  One paper is submitted to ICME2024.
 - 2023 12   We are five students honoured to “华为杯”全国研究生数学建模竞赛全国三等奖.
 - 2023.11   One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
 - 2023.10   Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.

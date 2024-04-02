@@ -55,6 +55,13 @@ Latest News
 
 - 2023.06   One paper is accepted by ICIP2023(CCF-C).
 
+Manuscripts
+======
+2024
+- He J, Xue M, Liu Z, et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement[J]. arXiv preprint arXiv:2403.02879, 2024. [[Paper]](https://arxiv.org/html/2403.02879v1)
+- Xue M, He J, He Y, et al. Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/html/2401.03788v1)
+
+
 Publications
 ======
 2024
@@ -73,12 +80,6 @@ before 2022
 - [MAT'19] Minglong Xue, Palaiahnakote Shivakumara, Chao Zhang, Yao Xiao, Tong Lu, Umapada Pal, Michael Blumenstein, Daniel Lopresti, “Curved text detection in blurred/non-blurred video/scene images” pp. 25629- 25653, 2019. (CCF-C, SCI,中科院三区 )
 - [ICDAR'19] Yao Xiao, Minglong Xue, Tong Lu, Yirui Wu, Palaiahnakote Shivakumara, “A text-context-aware CNN network for multi-oriented and multi-language scene text detection” in Proc. 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 695-700, 2019. (EI, CCF-C)
 - [PCM'19] Chao Zhang, Palaiahnakote Shivakumara, Minglong Xue, Liping Zhu, Tong Lu, Umapada Pal, “New fusion based enhancement for text detection in night video footage” in Proc. 2018 Pacific Rim Conference on Multimedia (PCM). pp. 46-56, 2018. (EI, CCF-C)
-
-Manuscripts
-======
-2024
-- He J, Xue M, Liu Z, et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement[J]. arXiv preprint arXiv:2403.02879, 2024. [[Paper]](https://arxiv.org/html/2403.02879v1)
-- Xue M, He J, He Y, et al. Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/html/2401.03788v1)
 
 Honors
 ======

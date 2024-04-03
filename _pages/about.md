@@ -32,7 +32,7 @@ Latest News
 ======
 <!-- - 2024.01   One paper is submitted to Siggraph2024.
 -->
-- 2024.03 Team-building activities
+- 2024.03 Team-building activities.
 <p align = "center">    
 <img  src="/images/team_building.jpg" width="50%" />
 </p>

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Minglong Xue’s Page
+title                    : Visual Perception and Understanding
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -74,7 +74,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  google:   
     tracking_id          :
 
 
@@ -86,7 +86,7 @@ author:
   location         : Chongqing
 #  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=HgX9lPoAAAAJ"
   email            :  "xueml@cqut.edu.cn"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #  uri              :

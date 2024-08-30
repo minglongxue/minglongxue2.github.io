@@ -152,6 +152,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+sidebar:
+  - title: "Links"
+    links:
+      - name: "My GitHub"
+        url: "https://minglongxue.github.io/"
+        icon: "github"
+
+
 
 # Conversion
 markdown: kramdown
